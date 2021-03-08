@@ -22,5 +22,5 @@ function someFunction(a, b) {
 Three dashes make a line.
 
 
-This is a new line of fucking shit.
+This is a new line of stuff.
 
