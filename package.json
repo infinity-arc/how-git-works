@@ -1,0 +1,22 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "The # is a `h1`, how many # you have determines the header form h1 through to `h6`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinity-arc/how-git-works.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infinity-arc/how-git-works/issues"
+  },
+  "homepage": "https://github.com/infinity-arc/how-git-works#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
